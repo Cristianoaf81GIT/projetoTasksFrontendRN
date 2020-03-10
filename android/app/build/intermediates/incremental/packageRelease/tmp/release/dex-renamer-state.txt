@@ -1,0 +1,4 @@
+#Mon Jan 06 00:56:22 BRST 2020
+base.0=/home/cristianoaf81/react-native-projects/curso-react-native/tasks/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Sat Jan 25 00:49:37 BRST 2020
+base.0=/home/cristianoaf81/desenvolvimento/javascript/react-native-projects/curso-react-native/tasks/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
